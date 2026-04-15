@@ -33,8 +33,6 @@ import seaborn as sns
 #   df = pd.read_excel("Folds5x2_pp.xlsx")
 #   df.columns = ['AT', 'V', 'AP', 'RH', 'PE']
 #
-# Para fins de demonstração, geramos dados sintéticos
-# com os mesmos parâmetros estatísticos do dataset real:
 
 np.random.seed(42)
 n = 9568
